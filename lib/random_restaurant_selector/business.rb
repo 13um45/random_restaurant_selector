@@ -54,7 +54,7 @@ module RandomRestaurantSelector
         fallback: "Yelp Restaurant Chooser: selection for today: #{name}",
         color: '#36a64f',
         pretext: "We will be eating at #{name} today!",
-        author_name: 'Yelp Restaurant Chooser',
+        author_name: 'Random Restaurant Selector',
         author_link: 'http://www.christiansamuel.net/',
         author_icon: 'https://s3-media3.fl.yelpcdn.com/assets/srv0/styleguide/b62d62e8722a/assets/img/brand_guidelines/yelp_fullcolor_outline@2x.png',
         title: name.to_s,
